@@ -1,5 +1,4 @@
 ﻿auteur,orcid,dans_HAL,dans_OpenAlex,methode
-A. Albert,,True,True,nom
 A. Capone,,True,True,nom
 A. Coleiro,,True,True,nom
 A. Creusot,,True,True,nom
@@ -23,13 +22,16 @@ Adrien Varet,,True,True,nom
 Afef Cherni,,True,True,nom
 Alain Pochat,,True,True,nom
 Alba Martinez Anton,,True,True,nom
+Aldo Gonzalez-Lorenzo,,True,True,nom
 Alessia Milani,,True,True,nom
 Alexandra Bac,,True,True,nom
+Alexandre Altes,,True,True,nom
 Alexandre Rapetti,,True,True,nom
 Alexis Jeandet,,True,True,nom
 Alexis Nasr,,True,True,nom
+Amirhossein Khezri,,True,True,nom
 Amélia Durbec,,True,True,nom
-Andrei Bursuc,,True,True,nom
+Angela Bonifati,,True,True,nom
 Antoine Laurent,,True,True,nom
 Antonella del Pozzo,,True,True,nom
 Arnaud Durand,,True,True,nom
@@ -40,6 +42,7 @@ Audrey Minghelli,,True,True,nom
 Augustin C. Ogier,,True,True,nom
 Aurélien Arnaubec,,True,True,nom
 Axel Haddad,,True,True,nom
+Azam Fazel Najafabadi,,True,True,nom
 Aziz Naamane,,True,True,nom
 B. Baret,,True,True,nom
 B. Belhorma,,True,True,nom
@@ -63,11 +66,14 @@ C. Guidi,,True,True,nom
 C. Pellegrino,,True,True,nom
 Cecile Capponi,,True,True,nom
 Chloé Clavel,,True,True,nom
+Chloé Di Lena,,True,True,nom
 Christiane Weber,,True,True,nom
 Christophe Benzitoun,,True,True,nom
 Christophe Bérenguer,,True,True,nom
 Christophe Delacourt,,True,True,nom
 Christophe Lett,,True,True,nom
+Christophe Roman,,True,True,nom
+Christophe Tribouilloy,,True,True,nom
 Christopher Cieri,,True,True,nom
 Chu-Min Li,,True,True,nom
 Claire Dune,,True,True,nom
@@ -86,9 +92,11 @@ D. Lopez-Coto,,True,True,nom
 D. van Eijk,,True,True,nom
 Damien Imbs,,True,True,nom
 Damien Regnault,,True,True,nom
+Dan Rusinaru,,True,True,nom
 Daniel Hissel,,True,True,nom
 David Bendahan,,True,True,nom
 David Brie,,True,True,nom
+David Filliat,,True,True,nom
 David Sheeren,,True,True,nom
 Denis Apothéloz,,True,True,nom
 Denis Hagebaum-Reignier,,True,True,nom
@@ -102,7 +110,7 @@ E. Leonora,,True,True,nom
 Edouard Thiel,,True,True,nom
 Ehsan Heydarian-Forushani,,True,True,nom
 Eleonore Meheust,,True,True,nom
-Eliot Maës,,True,True,nom
+Elijah Cole,,True,True,nom
 Elisabeth Murisasco,,True,True,nom
 Elisabeth Sola,,True,True,nom
 Elise Mathurin,,True,True,nom
@@ -120,6 +128,7 @@ F. Bruce Shepherd,,True,True,nom
 F. Filippini,,True,True,nom
 F. Huang,,True,True,nom
 Fabienne Delfour,,True,True,nom
+Fabrice Bauer,,True,True,nom
 Fabrice Debbasch,,True,True,nom
 Fatima Benbouzid Si Tayeb,,True,True,nom
 Felip Manyà,,True,True,nom
@@ -129,7 +138,7 @@ Francesca Chittaro,,True,True,nom
 Francesco Gavazzo,,True,True,nom
 Franck Dary,,True,True,nom
 Franck Jaotombo,,True,True,nom
-Franck Malige,,True,True,nom
+François Brucker,,True,True,nom
 François Hamonic,,True,True,nom
 François Steinmetz,,True,True,nom
 François-Xavier Dupé,,True,True,nom
@@ -143,13 +152,13 @@ G. Levi,,True,True,nom
 G. de Wasseige,,True,True,nom
 Gadi Taubenfeld,,True,True,nom
 Gerard Martín,,True,True,nom
-Gianni Franchi,,True,True,nom
 Gilles Barthe,,True,True,nom
 Gilles Corminboeuf,,True,True,nom
 Gilles Pesant,,True,True,nom
 Gisela Giardino,,True,True,nom
 Giuseppe Di Molfetta,,True,True,nom
 Goutam Majumder,,True,True,nom
+Grzegorz Ciesielski,,True,True,nom
 Guilherme D. da Fonseca,,True,True,nom
 Guyslain Naves,,True,True,nom
 Géraldine Damnati,,True,True,nom
@@ -166,7 +175,6 @@ Henri-José Deulofeu,,True,True,nom
 Henry Xia,,True,True,nom
 Heribert Vollmer,,True,True,nom
 Hervé Glotin,,True,True,nom
-Hervé Goëau,,True,True,nom
 Hervé Hocquard,,True,True,nom
 Hervé Tissot-Dupont,,True,True,nom
 Hitoshi Isahara,,True,True,nom
@@ -197,15 +205,17 @@ J. Manczak,,True,True,nom
 J. Wilms,,True,True,nom
 J.-J. Aubert,,True,True,nom
 J.A. Martínez-Mora,,True,True,nom
-Jaap Kamps,,True,True,nom
 Jacques Descloitres,,True,True,nom
+Jan Chorowski,,True,True,nom
 Jan Odijk,,True,True,nom
 Jasmine Xuereb,,True,True,nom
 Jean-Baptiste Feret,,True,True,nom
 Jean-Luc Damoiseaux,,True,True,nom
+Jean-Luc Mari,,True,True,nom
 Jean-Marie Pergandi,,True,True,nom
 Jean-Philippe Pernot,,True,True,nom
 Jennifer Muscato,,True,True,nom
+Jeremy Auguste,,True,True,nom
 Jesús Giráldez-Cru,,True,True,nom
 Jilliana Monnier,,True,True,nom
 Joachim Schöpfel,,True,True,nom
@@ -214,9 +224,12 @@ Jonathan Grainger,,True,True,nom
 Jordi Coll,,True,True,nom
 Josep Suy,,True,True,nom
 Joseph Mariani,,True,True,nom
+Julie Patris,,True,True,nom
 Julien Diperi,,True,True,nom
+Julien Serres,,True,True,nom
 Julien Zylberman,,True,True,nom
 Justine Girardet,,True,True,nom
+Jérémie Bousquet,,True,True,nom
 Jérôme Spitz,,True,True,nom
 K. Graf,,True,True,nom
 K. Melis,,True,True,nom
@@ -233,12 +246,13 @@ Krystel Pochat,,True,True,nom
 Kun He,,True,True,nom
 Kunihiko Hiraishi,,True,True,nom
 Kévin Perrot,,True,True,nom
+Kübra Bodur,,True,True,nom
 L. Caramete,,True,True,nom
 L. Fusco,,True,True,nom
 L. Jorda,,True,True,nom
 L. Maderer,,True,True,nom
 L. Nauta,,True,True,nom
-Laure Berti-Équille,,True,True,nom
+Laura Geneste,,True,True,nom
 Laurent Astart,,True,True,nom
 Laurent Besacier,,True,True,nom
 Laurent Prevot,,True,True,nom
@@ -249,10 +263,8 @@ Line Jakubiec-Jamet,,True,True,nom
 Lionel Almeras,,True,True,nom
 Liva Ralaivola,,True,True,nom
 Loic Darrieumerlou,,True,True,nom
-Loïc Crombez,,True,True,nom
-Loïc Paulevé,,True,True,nom
 Luc Libralesso,,True,True,nom
-Luce Lefeuvre,,True,True,nom
+Luigi Santocanale,,True,True,nom
 Lyes Benyoucef,,True,True,nom
 Léo Berline,,True,True,nom
 Léo Exibard,,True,True,nom
@@ -269,10 +281,11 @@ M. Lincetto,,True,True,nom
 M. Marcelin,,True,True,nom
 M. de Jong,,True,True,nom
 M.C. Bouwhuis,,True,True,nom
+Maciej Grabias,,True,True,nom
 Magalie Ochs,,True,True,nom
-Mahdi Abbasi,,True,True,nom
 Malik Chami,,True,True,nom
 Manfeng Dou,,True,True,nom
+Manfred K. Warmuth,,True,True,nom
 Manon Philibert,,True,True,nom
 Manu Jain,,True,True,nom
 Marc Brachet,,True,True,nom
@@ -285,12 +298,15 @@ Martin Zimmermann,,True,True,nom
 Martin-Pierre Schmidt,,True,True,nom
 Mateu Villaret,,True,True,nom
 Mathilde Noual,,True,True,nom
+Matthieu Ariza,,True,True,nom
+Matthieu Labeau,,True,True,nom
 Matthieu Million,,True,True,nom
 Maxence Ferrari,,True,True,nom
 Maxime Hauray,,True,True,nom
 Maxime Petit,,True,True,nom
 Maximilien Servajean,,True,True,nom
 Meriem Touat,,True,True,nom
+Mesut Gun,,True,True,nom
 Michał Pilipczuk,,True,True,nom
 Michel Raynal,,True,True,nom
 Milan Šulc,,True,True,nom
@@ -301,23 +317,24 @@ Mohamed Benbouzid,,True,True,nom
 Mohamed Djemai,,True,True,nom
 Mohamed Sami Cherif,,True,True,nom
 Mohamed Zerrougui,,True,True,nom
+Mohammad Amin Yazdani,,True,True,nom
+Momar Diouf,,True,True,nom
 N. El Khayati,,True,True,nom
 N. Randazzo,,True,True,nom
 N.R. Khan-Chowdhury,,True,True,nom
 Nadia Creignou,,True,True,nom
 Nadège Thirion-Moreau,,True,True,nom
+Nathalie Camelin,,True,True,nom
 Nathan Chometton,,True,True,nom
 Nathan Guyot,,True,True,nom
 Nathan Lhote,,True,True,nom
 Nicola Olivetti,,True,True,nom
 Nicola Zannone,,True,True,nom
 Nicolas Benoit,,True,True,nom
-Nicolas Hervé,,True,True,nom
 Nicolas Poinsu,,True,True,nom
 Nicolas Prcovic,,True,True,nom
 Nicolas Thellier,,True,True,nom
 Nicolas Thouvenel,,True,True,nom
-Nicoletta Calzolari,,True,True,nom
 Noël Novelli,,True,True,nom
 Núria Gala,,True,True,nom
 O. Kalekin,,True,True,nom
@@ -335,6 +352,7 @@ P. Piattelli,,True,True,nom
 P. de Jong,,True,True,nom
 Pablo Arrighi,,True,True,nom
 Partha Pakray,,True,True,nom
+Pascal Lafourcade,,True,True,nom
 Pascal Préa,,True,True,nom
 Pascale Giraudet,,True,True,nom
 Patrice Bellot,,True,True,nom
@@ -346,6 +364,7 @@ Philip Deegan,,True,True,nom
 Philippe Blache,,True,True,nom
 Pierre Bonnet,,True,True,nom
 Pierre Garreau,,True,True,nom
+Pierre Guignant,,True,True,nom
 Pierre-Alain Duc,,True,True,nom
 Pierre-Alain Reynier,,True,True,nom
 Quiterie Sourget,,True,True,nom
@@ -366,9 +385,9 @@ Raida Ktari,,True,True,nom
 Ramzi Guetari,,True,True,nom
 Raphaëlle Crubillé,,True,True,nom
 René Heuzey,,True,True,nom
+Ricard Marxer,,True,True,nom
 Riikka Huusari,,True,True,nom
 Rim Abrougui,,True,True,nom
-Rita Hijazi,,True,True,nom
 Robert Planqué,,True,True,nom
 Robin Roche,,True,True,nom
 Roland Redon,,True,True,nom
@@ -397,27 +416,33 @@ Sara Goggi,,True,True,nom
 Sarah Bali,,True,True,nom
 Sebastian Miron,,True,True,nom
 Seifeddine Ben Elghali,,True,True,nom
+Shay Moran,,True,True,nom
 Shibashis Guha,,True,True,nom
 Sijie Hu,,True,True,nom
 Sivaji Bandyopadhyay,,True,True,nom
 Sophie Fabre,,True,True,nom
-Sophie Viseur,,True,True,nom
 Soufyane Benzaouia,,True,True,nom
 Sougata Bose,,True,True,nom
 Stelios Piperidis,,True,True,nom
 Stephane Dufau,,True,True,nom
+Stephane Jacquemoud,,True,True,nom
 Steve Kremer,,True,True,nom
 Stéphane Ayache,,True,True,nom
 Stéphane Grandcolas,,True,True,nom
 Stéphane Huet,,True,True,nom
 Stéphane Mounier,,True,True,nom
+Stéphane Viollet,,True,True,nom
 Sunil Arya,,True,True,nom
 Sven Schewe,,True,True,nom
+Sylvain Bouley,,True,True,nom
+Sylvain Meignier,,True,True,nom
 Sylvain Sené,,True,True,nom
 Sylvain Soliman,,True,True,nom
+Sylvestre Maréchaux,,True,True,nom
 Sébastien Fournier,,True,True,nom
 Sébastien Migeon,,True,True,nom
 Sébastien Paris,,True,True,nom
+Séverine Dubuisson,,True,True,nom
 Sílvia Araújo,,True,True,nom
 T. Chiarusi,,True,True,nom
 T. Eberl,,True,True,nom
@@ -431,7 +456,6 @@ Thierry Declerck,,True,True,nom
 Thomas Colcombet,,True,True,nom
 Thomas Rimaud,,True,True,nom
 Tom Denton,,True,True,nom
-Touria Bajjouk,,True,True,nom
 U. Katz,,True,True,nom
 Udi Boker,,True,True,nom
 Ugo Dal Lago,,True,True,nom
@@ -439,9 +463,9 @@ V. Bertin,,True,True,nom
 V. Carretero,,True,True,nom
 V. Kulikovskiy,,True,True,nom
 Valentin Emiya,,True,True,nom
-Valentin Pelloin,,True,True,nom
 Van-Giang Trinh,,True,True,nom
 Victor Chepoi,,True,True,nom
+Victor Deng,,True,True,nom
 Victor Lutfalla,,True,True,nom
 Vikrant Rajput,,True,True,nom
 Vincent Hugel,,True,True,nom
@@ -451,12 +475,9 @@ Wafa Nafkha-Tayari,,True,True,nom
 Wassim Ahmed-Belkacem,,True,True,nom
 Wided Lejouad Chaari,,True,True,nom
 Willem-Pier Vellinga,,True,True,nom
-Willy Dabin,,True,True,nom
 Witold Podlejski,,True,True,nom
-Xavier Briottet,,True,True,nom
 Xavier Luciani,,True,True,nom
 Xianghua Xie,,True,True,nom
-Xuanlong Yu,,True,True,nom
 Y. Gatelet,,True,True,nom
 Y. Hello,,True,True,nom
 Yan Gerard,,True,True,nom
@@ -467,6 +488,7 @@ Yassine Boukal,,True,True,nom
 Yassine Guermazi,,True,True,nom
 Yassine Zniyed,,True,True,nom
 Yong-Guk Kim,,True,True,nom
+Yves Le Gall,,True,True,nom
 Zacharie Aoulad,,True,True,nom
 Zhenxing Xu,,True,True,nom
 Zhongliang Li,,True,True,nom
@@ -557,17 +579,19 @@ A.M. Botti,,True,False,nom
 A.R. Fazely,,True,False,nom
 A.T. Fienberg,,True,False,nom
 Adaeze Adigwe,,True,False,nom
+Adrian Lancucki,,True,False,nom
 Afra Alishahi,,True,False,nom
 Ahmed Elgharib,,True,False,nom
 Ahmed Mabrouk,,True,False,nom
 Ahmed Samet,,True,False,nom
 Alberto D. Verga,,True,False,nom
-Alexandre Cornier,,True,False,nom
 Alexandre Marin,,True,False,nom
 Allan Halpern,,True,False,nom
 Alon Scope,,True,False,nom
 Amanda Navine,,True,False,nom
 Amine Zeguendry,,True,False,nom
+Anaelle Wilczynski,,True,False,nom
+Andrea Ciardi,,True,False,nom
 Andrew Durso,,True,False,nom
 Andrzej Pelc,,True,False,nom
 Armel Bonneron,,True,False,nom
@@ -665,7 +689,6 @@ Carlos Ramisch,,True,False,nom
 Carol Figueroa,,True,False,nom
 Caterina Longo,,True,False,nom
 Charles Verpoorter,,True,False,nom
-Christelle Launois,,True,False,nom
 Christophe Gonzales,,True,False,nom
 Claire Gardent,,True,False,nom
 Cristian Navarrete-Dechent,,True,False,nom
@@ -721,7 +744,6 @@ D.R. Williams,,True,False,nom
 D.V. Pankova,,True,False,nom
 D.Z. Besson,,True,False,nom
 Daniel Egret,,True,False,nom
-Darine Bouteldja,,True,False,nom
 David Mount,,True,False,nom
 Davy Monticolo,,True,False,nom
 Di Molfetta Giuseppe,,True,False,nom
@@ -803,11 +825,15 @@ F. de Palma,,True,False,nom
 F.G. Schröder,,True,False,nom
 F.L. Briechle,,True,False,nom
 F.M. Mariani,,True,False,nom
+Fabrice Aubépart,,True,False,nom
+Fatiha Saïs,,True,False,nom
 Fatima Benbouzid-Sitayeb,,True,False,nom
 Fazia Harrache,,True,False,nom
 Fazia Hermime,,True,False,nom
+Felix Ulrich-Oltean,,True,False,nom
 François Laviolette,,True,False,nom
 François Sarano,,True,False,nom
+François Schwarzentruber,,True,False,nom
 Frédéric Schneider,,True,False,nom
 G Auzias,,True,False,nom
 G. Avila,,True,False,nom
@@ -850,6 +876,7 @@ Gabriele Campanella,,True,False,nom
 Gian Pozzato,,True,False,nom
 Giovanni Pellacani,,True,False,nom
 Grzegorz Chrupała,,True,False,nom
+Guilherme da Fonseca,,True,False,nom
 Guillaume Maurras,,True,False,nom
 H. Asorey,,True,False,nom
 H. Dembinski,,True,False,nom
@@ -901,6 +928,7 @@ I.C. Rea,,True,False,nom
 I.D. Vergara Quispe,,True,False,nom
 I.H. Park,,True,False,nom
 Irina Illina,,True,False,nom
+Isabelle Bloch,,True,False,nom
 J. Adams,,True,False,nom
 J. Alvarez-Muñiz,,True,False,nom
 J. Becker Tjus,,True,False,nom
@@ -1054,7 +1082,6 @@ K.H. Kampert,,True,False,nom
 K.H. Lee,,True,False,nom
 K.L. Fan,,True,False,nom
 K.S. Caballero-Mora,,True,False,nom
-Kais Hariz,,True,False,nom
 Kateryna Verzhanska,,True,False,nom
 Khaoula Mahmoudi,,True,False,nom
 Kivanc Kose,,True,False,nom
@@ -1220,8 +1247,8 @@ Marion Sarano,,True,False,nom
 Massimo Stella,,True,False,nom
 Matthieu Py,,True,False,nom
 Maxime Guye,,True,False,nom
-Maxime Guériau,,True,False,nom
 Meiling Yue,,True,False,nom
+Meryem Bendella,,True,False,nom
 Michael Frank,,True,False,nom
 Michael Zock,,True,False,nom
 Mikhael Carmona,,True,False,nom
@@ -1251,10 +1278,10 @@ N. Valtonen-Mattila,,True,False,nom
 N. Whitehorn,,True,False,nom
 N. van Eijndhoven,,True,False,nom
 N.M. Amin,,True,False,nom
+Nacer Kouider M’sirdi,,True,False,nom
 Nacer M'Sirdi,,True,False,nom
 Nawal Abboub,,True,False,nom
-Nicolas Aunai,,True,False,nom
-Nicolas Zampieri,,True,False,nom
+Nicolas Sembel,,True,False,nom
 Noureddine Zerhouni,,True,False,nom
 Nuno F. Loureiro,,True,False,nom
 O. Botner,,True,False,nom
@@ -1265,6 +1292,7 @@ O. Scholten,,True,False,nom
 O. Sima,,True,False,nom
 O. Tkachenko,,True,False,nom
 O. Zapparrata,,True,False,nom
+Olivier Raitière,,True,False,nom
 P. Abreu,,True,False,nom
 P. Assis,,True,False,nom
 P. Buchholz,,True,False,nom
@@ -1310,7 +1338,9 @@ Pascale Guitera,,True,False,nom
 Paul Cook,,True,False,nom
 Paul-Emile Mainge,,True,False,nom
 Paulo Augusto de Lima Medeiros,,True,False,nom
+Pawel Rychlikowski,,True,False,nom
 Peirolo Morgane,,True,False,nom
+Peter Nightingale,,True,False,nom
 Polette Arnaud,,True,False,nom
 Q. Luce,,True,False,nom
 Q.R. Liu,,True,False,nom
@@ -1364,6 +1394,7 @@ R.W. Clay,,True,False,nom
 R.W. Moore,,True,False,nom
 Radu Tudor Ionescu,,True,False,nom
 Richard Baraniuk,,True,False,nom
+Roch Smets,,True,False,nom
 S. Andringa,,True,False,nom
 S. Axani,,True,False,nom
 S. Baur,,True,False,nom
@@ -1447,6 +1478,7 @@ Sho Tsuji,,True,False,nom
 Shoulin Li,,True,False,nom
 Simon de Deyne,,True,False,nom
 Sokol Koço,,True,False,nom
+Sorina Pop,,True,False,nom
 Stefano Pesce,,True,False,nom
 Stéphane Dixneuf,,True,False,nom
 Stéphane Rauzy,,True,False,nom
@@ -1575,125 +1607,128 @@ Z. Zhang,,True,False,nom
 Z. Zundel,,True,False,nom
 Zahi Jarir,,True,False,nom
 Zihan Xu,,True,False,nom
-Adrian-Gabriel Chifu,https://orcid.org/0000-0003-4680-5528,True,False,orcid
-Aldo Gonzalez-Lorenzo,https://orcid.org/0000-0003-3226-7650,True,False,orcid
-Aldo Gonzalez-Lorenzo,https://orcid.org/0000-0002-4459-511X,True,False,orcid
-Alexandre Goujon,https://orcid.org/0000-0002-6762-0920,True,False,orcid
-Alexis Joly,https://orcid.org/0000-0002-2161-9940,True,False,orcid
-Alice Delbosc,https://orcid.org/0000-0002-4815-5074,True,False,orcid
-Anaelle Wilczynski,https://orcid.org/0000-0002-3138-2262,True,False,orcid
-Andrea Ciardi,https://orcid.org/0000-0003-2892-6924,True,False,orcid
-Angela Bonifati,https://orcid.org/0000-0002-9582-869X,True,False,orcid
-Antonio Casares,https://orcid.org/0000-0001-6529-6963,True,False,orcid
-Antonis Achilleos,https://orcid.org/0000-0003-0318-1217,True,False,orcid
-Archna Bhatia,https://orcid.org/0000-0001-7466-9039,True,False,orcid
-Arnaud Casteigts,https://orcid.org/0000-0002-7819-7013,True,False,orcid
-Arthur Cartel Foahom Gouabou,https://orcid.org/0000-0002-3897-5693,True,False,orcid
-Arthur Cartel Foahom Gouabou,https://orcid.org/0000-0002-1875-7111,True,False,orcid
-Audrey Minghelli,https://orcid.org/0000-0002-5134-4124,True,False,orcid
-Augustin C. Ogier,https://orcid.org/0000-0001-9178-9964,True,False,orcid
-Auriane Boudin,https://orcid.org/0000-0001-5197-4903,True,False,orcid
-Azam Fazel Najafabadi,https://orcid.org/0000-0002-2270-1719,True,False,orcid
-Badreddine Farah,https://orcid.org/0000-0003-2982-7127,True,False,orcid
-Baptiste Blouin,https://orcid.org/0000-0002-7171-3628,True,False,orcid
-Benoît Favre,https://orcid.org/0000-0001-6786-1372,True,False,orcid
-Bernard Espinasse,https://orcid.org/0000-0003-2895-6752,True,False,orcid
-Bertrand Estellon,https://orcid.org/0000-0001-9245-1535,True,False,orcid
-Catherine Cadet,https://orcid.org/0000-0001-6555-0992,True,False,orcid
-Chu Wang,https://orcid.org/0000-0002-7515-3875,True,False,orcid
-Clémentin Boittiaux,https://orcid.org/0000-0002-1487-3502,True,False,orcid
-Constance P. Michel,https://orcid.org/0000-0001-8826-8797,True,False,orcid
-Corentin Bernard,https://orcid.org/0000-0003-1441-0046,True,False,orcid
-Cécile Crimon,https://orcid.org/0000-0001-9940-669X,True,False,orcid
-David Filliat,https://orcid.org/0000-0002-5739-1618,True,False,orcid
-Elie Antoine,https://orcid.org/0009-0008-9130-9041,True,False,orcid
-Elijah Cole,https://orcid.org/0000-0002-2828-4389,True,False,orcid
-Emanuel Aldea,https://orcid.org/0000-0001-7065-4809,True,False,orcid
-Enrico Formenti,https://orcid.org/0000-0003-2133-8089,True,False,orcid
-Eunice Akani,https://orcid.org/0000-0003-1760-4532,True,False,orcid
-Farah Cherfaoui,https://orcid.org/0009-0005-3523-4864,True,False,orcid
-Fatiha Saïs,https://orcid.org/0000-0003-4059-9284,True,False,orcid
-Felix Richards,https://orcid.org/0000-0001-5114-1514,True,False,orcid
-Franck Dary,https://orcid.org/0000-0002-2653-1008,True,False,orcid
-François Schwarzentruber,https://orcid.org/0000-0002-4909-5843,True,False,orcid
-Gaël Guibon,https://orcid.org/0000-0003-2420-9311,True,False,orcid
-Hugo Martin,https://orcid.org/0000-0002-5556-6947,True,False,orcid
-Irina Ovchinnikova,https://orcid.org/0000-0003-1838-3807,True,False,orcid
-Isaac Sanou,https://orcid.org/0000-0002-9344-4844,True,False,orcid
-Isabelle Bloch,https://orcid.org/0000-0002-6984-1532,True,False,orcid
-Ismail Badache,https://orcid.org/0000-0003-1868-1185,True,False,orcid
-Jacques Demongeot,https://orcid.org/0000-0001-9815-5606,True,False,orcid
-Jean-Luc Jung,https://orcid.org/0000-0002-8795-8056,True,False,orcid
-Jean-Luc Mari,https://orcid.org/0000-0002-9552-6739,True,False,orcid
-Jeremy Auguste,https://orcid.org/0000-0001-7521-6795,True,False,orcid
-Jian Zuo,https://orcid.org/0000-0003-0985-2763,True,False,orcid
-John Bateman,https://orcid.org/0000-0002-6169-0477,True,False,orcid
-Julien Flamant,https://orcid.org/0000-0001-9994-173X,True,False,orcid
-Jérémie Bousquet,https://orcid.org/0000-0002-5216-9591,True,False,orcid
-Karim Makki,https://orcid.org/0000-0002-2435-3017,True,False,orcid
-Kevissen Sellapillay,https://orcid.org/0000-0002-3535-1009,True,False,orcid
-Laurent Verrier,https://orcid.org/0000-0001-6581-3000,True,False,orcid
-Liana Ermakova,https://orcid.org/0000-0002-7598-7474,True,False,orcid
-Liang Guo,https://orcid.org/0000-0002-9412-3954,True,False,orcid
-Loïc Lehnhoff,https://orcid.org/0000-0002-2100-6626,True,False,orcid
-Luigi Santocanale,https://orcid.org/0000-0002-4237-7856,True,False,orcid
-Lukáš Picek,https://orcid.org/0000-0002-9426-2583,True,False,orcid
-M. Anghinolfi,https://orcid.org/0000-0001-6168-0669,True,False,orcid
-Madeline Fery,https://orcid.org/0000-0001-9022-9690,True,False,orcid
-Magalie Ochs,https://orcid.org/0000-0002-2256-139X,True,False,orcid
-Malik Chami,https://orcid.org/0000-0001-7815-0533,True,False,orcid
-Marc Pinto,https://orcid.org/0000-0002-9245-3407,True,False,orcid
-Marc-Adrien Hostin,https://orcid.org/0000-0003-3649-2054,True,False,orcid
-Matthieu Labeau,https://orcid.org/0000-0003-4850-3398,True,False,orcid
-Maxence Ferrari,https://orcid.org/0000-0001-7338-8518,True,False,orcid
-Mohamed Trabelsi,https://orcid.org/0000-0001-6904-8756,True,False,orcid
-Monica Barbir,https://orcid.org/0000-0001-9580-4500,True,False,orcid
-Nicolas Baudru,https://orcid.org/0000-0002-4717-9955,True,False,orcid
-Nicolas Hervé,https://orcid.org/0000-0002-1259-127X,True,False,orcid
-Nicolas Prcovic,https://orcid.org/0000-0002-1228-4333,True,False,orcid
-Nicolas Sembel,https://orcid.org/0000-0001-9464-2829,True,False,orcid
-Otmane Azeroual,https://orcid.org/0000-0002-4000-807X,True,False,orcid
-Otmane Azeroual,https://orcid.org/0000-0003-1605-7047,True,False,orcid
-Pascal Lafourcade,https://orcid.org/0000-0001-9908-4811,True,False,orcid
-Patrice Bellot,https://orcid.org/0000-0002-6620-7771,True,False,orcid
-Patrice Bellot,https://orcid.org/0000-0001-5171-2268,True,False,orcid
-Paul Best,https://orcid.org/0000-0001-5099-5059,True,False,orcid
-Pedro Paulo Balbi,https://orcid.org/0000-0002-1007-7912,True,False,orcid
-Pierre Aboulker,https://orcid.org/0000-0002-3447-8112,True,False,orcid
-R Yadav,https://orcid.org/0000-0002-0697-2981,True,False,orcid
-Rabah Ammour,https://orcid.org/0000-0002-6885-0867,True,False,orcid
-Raphael Sturgis,https://orcid.org/0000-0001-7102-6943,True,False,orcid
-Raphaëlle Crubillé,https://orcid.org/0009-0004-6946-0678,True,False,orcid
-Richard Kronland-Martinet,https://orcid.org/0000-0002-7325-4920,True,False,orcid
-Roch Smets,https://orcid.org/0000-0002-5300-6882,True,False,orcid
-Said Amari,https://orcid.org/0000-0003-3463-3810,True,False,orcid
-Sandip Das,https://orcid.org/0000-0002-2664-0650,True,False,orcid
-Serge Bernard,https://orcid.org/0000-0003-1772-0592,True,False,orcid
-Sorina Pop,https://orcid.org/0000-0003-1753-7894,True,False,orcid
-Stefan Kahl,https://orcid.org/0000-0001-5228-9238,True,False,orcid
-Stephane Jacquemoud,https://orcid.org/0000-0002-4002-3974,True,False,orcid
-Stéphane Ayache,https://orcid.org/0000-0003-3696-0321,True,False,orcid
-Stéphane Viollet,https://orcid.org/0000-0003-1585-9822,True,False,orcid
-Sylvain Bouley,https://orcid.org/0009-0004-5938-6670,True,False,orcid
-Sylvain Meignier,https://orcid.org/0000-0001-7411-9125,True,False,orcid
-Sébastien Bouchard,https://orcid.org/0000-0002-6464-9517,True,False,orcid
-Sébastien Fournier,https://orcid.org/0000-0002-1611-0744,True,False,orcid
-Séverine Dubuisson,https://orcid.org/0000-0001-7306-4134,True,False,orcid
-Sílvia Araújo,https://orcid.org/0000-0001-8698-5055,True,False,orcid
-Sølvi Ystad,https://orcid.org/0000-0002-8214-6278,True,False,orcid
-Tarek Melliti,https://orcid.org/0000-0003-2352-5793,True,False,orcid
-Thanh Tuan Nguyen,https://orcid.org/0000-0002-5646-8505,True,False,orcid
-Thierry Artieres,https://orcid.org/0000-0002-6333-5735,True,False,orcid
-Thomas Brihaye,https://orcid.org/0000-0003-0875-300X,True,False,orcid
-Thomas Misiek,https://orcid.org/0000-0003-0279-7730,True,False,orcid
-Timothée Corsini,https://orcid.org/0000-0001-8194-4684,True,False,orcid
-Ugo Comignani,https://orcid.org/0000-0002-7730-9028,True,False,orcid
-V. Dutto,https://orcid.org/0000-0001-5766-5976,True,False,orcid
-Valérie Camps,https://orcid.org/0000-0002-4768-2710,True,False,orcid
-Van-Giang Trinh,https://orcid.org/0000-0001-5525-7418,True,False,orcid
-Vincent Cheval,https://orcid.org/0000-0002-3622-2129,True,False,orcid
-Yassine Zniyed,https://orcid.org/0000-0003-4733-6698,True,False,orcid
-Yves Le Gall,https://orcid.org/0009-0002-0415-1503,True,False,orcid
-Zhongliang Li,https://orcid.org/0000-0001-7021-2103,True,False,orcid
-Zied Bouraoui,https://orcid.org/0000-0002-1662-4163,True,False,orcid
-Éric Gaussier,https://orcid.org/0000-0002-8858-3233,True,False,orcid
+Adrian-Gabriel Chifu,0000-0003-4680-5528,True,True,orcid
+Aldo Gonzalez-Lorenzo,0000-0003-3226-7650,True,True,orcid
+Aldo Gonzalez-Lorenzo,0000-0001-9908-4811,True,True,orcid
+Alexandre Cornier,0000-0003-1753-7894,True,True,orcid
+Alexandre Goujon,0000-0002-6762-0920,True,True,orcid
+Alexis Joly,0000-0002-2161-9940,True,True,orcid
+Alice Delbosc,0000-0002-4815-5074,True,True,orcid
+Andrei Bursuc,0000-0001-7306-4134,True,True,orcid
+Antonio Casares,0000-0001-6529-6963,True,True,orcid
+Antonis Achilleos,0000-0003-0318-1217,True,True,orcid
+Archna Bhatia,0000-0001-7466-9039,True,True,orcid
+Arnaud Casteigts,0000-0002-7819-7013,True,True,orcid
+Arthur Cartel Foahom Gouabou,0000-0002-3897-5693,True,True,orcid
+Arthur Cartel Foahom Gouabou,0000-0002-1875-7111,True,True,orcid
+Arun Kumar Das,0000-0002-2664-0650,True,True,orcid
+Augustin C. Ogier,0000-0001-9178-9964,True,True,orcid
+Auriane Boudin,0000-0001-5197-4903,True,True,orcid
+Badreddine Farah,0000-0003-2982-7127,True,True,orcid
+Baptiste Blouin,0000-0002-7171-3628,True,True,orcid
+Benoît Favre,0000-0001-7411-9125,True,True,orcid
+Bertrand Estellon,0000-0001-9245-1535,True,True,orcid
+Catherine Cadet,0000-0001-6555-0992,True,True,orcid
+Christelle Launois,0000-0002-4909-5843,True,True,orcid
+Chu Wang,0000-0002-7515-3875,True,True,orcid
+Clémentin Boittiaux,0000-0002-1487-3502,True,True,orcid
+Constance P. Michel,0000-0001-8826-8797,True,True,orcid
+Corentin Bernard,0000-0003-1441-0046,True,True,orcid
+Cécile Crimon,0000-0001-9940-669X,True,True,orcid
+Darine Bouteldja,0000-0001-9464-2829,True,True,orcid
+Elie Antoine,0000-0001-7521-6795,True,True,orcid
+Emanuel Aldea,0000-0002-5739-1618,True,True,orcid
+Enrico Formenti,0000-0003-2133-8089,True,True,orcid
+Eunice Akani,0000-0003-1760-4532,True,True,orcid
+Felix Richards,0000-0001-5114-1514,True,True,orcid
+Franck Dary,0000-0001-6786-1372,True,True,orcid
+Frédéric Bechet,0009-0008-9130-9041,True,True,orcid
+Gaël Guibon,0000-0003-2420-9311,True,True,orcid
+Gianni Franchi,0000-0002-2184-1381,True,True,orcid
+Hachem Kadri,0000-0003-3696-0321,True,True,orcid
+Hervé Goëau,0000-0001-5228-9238,True,True,orcid
+Hugo Martin,0000-0002-5556-6947,True,True,orcid
+Isaac Sanou,0000-0002-9344-4844,True,True,orcid
+Ismail Badache,0000-0003-1868-1185,True,True,orcid
+Jaap Kamps,0000-0003-1838-3807,True,True,orcid
+Jacques Demongeot,0000-0001-9815-5606,True,True,orcid
+Jean-Luc Jung,0000-0002-8795-8056,True,True,orcid
+Jean-Luc Mari,0000-0002-9552-6739,True,True,orcid
+Jian Zuo,0000-0003-0985-2763,True,True,orcid
+John Bateman,0000-0002-6169-0477,True,True,orcid
+Julien Flamant,0000-0001-9994-173X,True,True,orcid
+Jérémie Chalopin,0000-0002-2988-8969,True,True,orcid
+Karim Makki,0000-0002-2435-3017,True,True,orcid
+Kevissen Sellapillay,0000-0002-3535-1009,True,True,orcid
+Kübra Bodur,0009-0007-1221-3336,True,True,orcid
+Laure Berti-Équille,0000-0002-9582-869X,True,True,orcid
+Laurent Verrier,0000-0001-6581-3000,True,True,orcid
+Liana Ermakova,0000-0002-7598-7474,True,True,orcid
+Liang Guo,0000-0002-9412-3954,True,True,orcid
+Loïc Lehnhoff,0000-0002-2100-6626,True,True,orcid
+Luce Lefeuvre,0000-0003-4850-3398,True,True,orcid
+Luigi Santocanale,0000-0002-4237-7856,True,True,orcid
+Madeline Fery,0000-0001-9022-9690,True,True,orcid
+Magalie Ochs,0000-0002-5216-9591,True,True,orcid
+Mahdi Abbasi,0000-0002-2270-1719,True,True,orcid
+Malik Chami,0000-0002-5134-4124,True,True,orcid
+Malik Chami,0000-0001-7815-0533,True,True,orcid
+Marc Pinto,0000-0002-9245-3407,True,True,orcid
+Marc-Adrien Hostin,0000-0003-3649-2054,True,True,orcid
+Marjorie Armando,0000-0002-2256-139X,True,True,orcid
+Maxence Ferrari,0000-0001-7338-8518,True,True,orcid
+Maxime Guériau,0000-0003-4059-9284,True,True,orcid
+Mohamed Trabelsi,0000-0001-6904-8756,True,True,orcid
+Monica Barbir,0000-0001-9580-4500,True,True,orcid
+Nicolas Aunai,0000-0002-5300-6882,True,True,orcid
+Nicolas Baudru,0000-0002-4717-9955,True,True,orcid
+Nicolas Hervé,0000-0002-1259-127X,True,True,orcid
+Otmane Azeroual,0000-0002-4000-807X,True,True,orcid
+Otmane Azeroual,0000-0003-1605-7047,True,True,orcid
+Patrice Bellot,0000-0002-6620-7771,True,True,orcid
+Patrice Bellot,0000-0001-5171-2268,True,True,orcid
+Paul Best,0000-0001-5099-5059,True,True,orcid
+Pedro Paulo Balbi,0000-0002-1007-7912,True,True,orcid
+Pierre Aboulker,0000-0002-3447-8112,True,True,orcid
+R Yadav,0000-0002-0697-2981,True,True,orcid
+Rabah Ammour,0000-0002-6885-0867,True,True,orcid
+Raphael Sturgis,0000-0001-7102-6943,True,True,orcid
+Raphaëlle Crubillé,0009-0004-6946-0678,True,True,orcid
+Richard Kronland-Martinet,0000-0002-7325-4920,True,True,orcid
+Said Amari,0000-0003-3463-3810,True,True,orcid
+Serge Bernard,0000-0003-1772-0592,True,True,orcid
+Stefan Kahl,0000-0002-9426-2583,True,True,orcid
+Stéphane Huet,0000-0001-8698-5055,True,True,orcid
+Stéphane Viollet,0000-0003-1585-9822,True,True,orcid
+Sébastien Bouchard,0000-0002-6464-9517,True,True,orcid
+Sébastien Fournier,0000-0002-1611-0744,True,True,orcid
+Séverine Dubuisson,0000-0002-6984-1532,True,True,orcid
+Sølvi Ystad,0000-0002-8214-6278,True,True,orcid
+Thanh Tuan Nguyen,0000-0002-5646-8505,True,True,orcid
+Thierry Artieres,0000-0002-6333-5735,True,True,orcid
+Thomas Brihaye,0000-0003-0875-300X,True,True,orcid
+Thomas Misiek,0000-0003-0279-7730,True,True,orcid
+Timothée Corsini,0000-0001-8194-4684,True,True,orcid
+Titouan Lorieul,0000-0002-2828-4389,True,True,orcid
+Touria Bajjouk,0000-0002-4002-3974,True,True,orcid
+Ugo Comignani,0000-0002-7730-9028,True,True,orcid
+V. Dutto,0000-0001-5766-5976,True,True,orcid
+Valentin Pelloin,0000-0002-2653-1008,True,True,orcid
+Valérie Camps,0000-0002-4768-2710,True,True,orcid
+Van-Giang Trinh,0000-0001-5525-7418,True,True,orcid
+Vincent Cheval,0000-0002-3622-2129,True,True,orcid
+Willy Dabin,0009-0002-0415-1503,True,True,orcid
+Xavier Briottet,0000-0002-4703-3702,True,True,orcid
+Xavier Luciani,0000-0003-4733-6698,True,True,orcid
+Xuanlong Yu,0000-0001-7065-4809,True,True,orcid
+Yan Gerard,0000-0002-4459-511X,True,True,orcid
+Yohann Bohbot,0000-0002-5846-0929,True,True,orcid
+Zhongliang Li,0000-0001-7021-2103,True,True,orcid
+Zied Bouraoui,0000-0002-1662-4163,True,True,orcid
+Éric Gaussier,0000-0002-1228-4333,True,True,orcid
+A. Albert,0000-0001-6168-0669,True,False,orcid
+Farah Cherfaoui,0009-0005-3523-4864,True,False,orcid
+Nicolas Prcovic,0000-0002-3138-2262,True,False,orcid
+Rita Hijazi,0000-0003-2895-6752,True,False,orcid
+Sophie Viseur,0009-0004-5938-6670,True,False,orcid
+Tarek Melliti,0000-0003-2352-5793,True,False,orcid
