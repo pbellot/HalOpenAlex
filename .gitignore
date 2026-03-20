@@ -3,3 +3,6 @@ hal_openalex_uniques.csv
 hal_publications copie 2.ipynb
 auteurs_LIS_2022.csv
 .gitignore
+hal_works_LIS_2022.csv
+openalex_works_LIS_2022.csv
+notebook_state.pkl
