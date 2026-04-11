@@ -37,11 +37,11 @@ Ce projet interroge l'API HAL (Hyper Articles en Ligne) pour collecter les publi
 ## Installation
 
 ```bash
-conda activate EtudePublicationsHALOA
+pip install requests pandas tqdm
 jupyter lab
 ```
 
-Dépendances principales : `requests`, `pandas` (3.x), `tqdm`.
+Les autres modules utilisés (`difflib`, `pickle`, `re`, `time`, `unicodedata`…) font partie de la bibliothèque standard Python.
 
 ## Fichiers de données
 
